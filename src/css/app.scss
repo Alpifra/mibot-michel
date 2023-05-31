@@ -1,0 +1,35 @@
+@import 'abstracts/_colors.scss';
+@import 'abstracts/_fonts.scss';
+@import 'abstracts/_keyframes.scss';
+@import 'abstracts/_sizes.scss';
+@import 'components/background.scss';
+@import 'components/chat.scss';
+@import 'components/flag.scss';
+
+h1, h2, h3, h4 {
+    font-weight: normal;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Exo", sans-serif;
+}
+
+.container {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+
+    .title {
+        color: $white;
+        font-weight: bold;
+    }
+
+    .title-game {
+        margin-block: 2rem;
+        text-align: center;
+        font-size: 2.2rem;
+    }
+}
