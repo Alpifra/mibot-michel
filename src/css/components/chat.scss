@@ -5,6 +5,7 @@
     margin: 0 auto;
     flex-direction: column;
     width: 30vw;
+    min-width: 30rem;
     font-size: 1.2rem;
     list-style: none;
     color: $navy;
@@ -25,7 +26,8 @@
         justify-content: flex-end;
         flex-direction: column;
         width: 100%;
-        height: 30rem;
+        height: 40vh;
+        min-height: 15rem;
         background-color: $white;
         padding: .5rem 1rem;
         border-radius: $radius;
