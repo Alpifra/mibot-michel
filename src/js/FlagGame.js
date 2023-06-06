@@ -1,4 +1,5 @@
-import Countries from "../data/country.json";
+import Countries from "../data/country.json"
+import shoetest from "shoetest"
 
 export default class FlagGame {
 
@@ -21,19 +22,26 @@ export default class FlagGame {
         this.nodeAnswer.innerText = null
         this.nodeAnswer.appendChild(p)
         this.nodeImage.src = this.flag.flag_image
+        this.nodeCongrats.classList.add('hide')
+        this.winner = null
+        this.found = false
     }
 
     setWinner(username) {
-        this.nodeCongrats.innerText = username
+        this.winner = username
+        this.nodeCongrats.getElementsByTagName('p')[0].innerText = "Bravo " + this.winner + " !!"
+        this.nodeCongrats.classList.remove('hide')
     }
 
     showAnswer() {
         this.nodeAnswer.innerText = this.flag.name
     }
 
-    isCorrect(target, context, msg, self) {
-        if (msg === this.flag.name) {
-            setWinner(context['display-name'])
+    isCorrect(context, msg) {
+        if (shoetest.test(this.flag.name, msg)) {
+            this.found = true
+            this.showAnswer()
+            this.setWinner(context['display-name'])
         }
     }
 

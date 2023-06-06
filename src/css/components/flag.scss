@@ -36,3 +36,17 @@
         }
     }
 }
+
+#winnerCongrats {
+    background-color: $yellow;
+    color: $navy;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-block: 1rem;
+
+    p {
+        font-weight: bold;
+    }
+}
