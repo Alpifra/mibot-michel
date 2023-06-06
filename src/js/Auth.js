@@ -26,11 +26,11 @@ export default class Auth {
 
         if (accessToken) {
             sessionStorage.setItem('access_token', accessToken)
+            window.location.hash = '#logged'
         }
         if (state) {
             sessionStorage.setItem('state', state)
         }
-        window.location.hash = ''
     }
 
 }

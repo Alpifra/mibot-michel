@@ -11,23 +11,23 @@ const auth = new Auth(
     ['chat:read'],
     Math.floor(Math.random() * 333333333),
 )
+auth.storeAccessToken(window.location.hash)
 
-const limitTimer = 10
-let currentAccess = sessionStorage.getItem('access_token') ?? auth.storeAccessToken(window.location.hash)
+const channel = 'alpifra'
+const limitTimer = 20
+let currentAccess = sessionStorage.getItem('access_token')
 let clientId = sessionStorage.getItem('client_id')
-let connectBtn = document.getElementById('connect')
 
-if (!currentAccess) {
+if (window.location.hash === '#logged') {
 
-    let authUrl = auth.getAuthUrl(auth)
-    connectBtn.href = authUrl
-
-} else {
+    let gameContainer = document.getElementById('game')
+    gameContainer.classList.remove('hide')
 
     // instanciate fag game
     const game = new FlagGame(
         document.getElementById('flag'),
-        document.getElementById('flagText')
+        document.getElementById('flagText'),
+        document.getElementById('winnerCongrats')
     )
     game.generate()
 
@@ -42,10 +42,19 @@ if (!currentAccess) {
     }, (limitTimer + 5) * 1000);
 
     // instanciate chat
-    const bot = new Bot(currentAccess, clientId, ['lechelmi'])
+    const bot = new Bot(currentAccess, clientId, [channel])
     bot.init()
     bot.addMessageHandler(createChat)
-    bot.addMessageHandler(FlagGame.isCorrect)
+    bot.addMessageHandler((target, context, msg, self) => game.isCorrect(context, msg))
     bot.start()
+
+} else {
+
+    let authUrl = auth.getAuthUrl(auth)
+    let connectContainer = document.getElementById('login')
+    let connectBtn = document.getElementById('connect')
+    connectBtn.href = authUrl
+    connectBtn.innerText = 'Connexion à ' + channel
+    connectContainer.classList.remove('hide')
 
 }
