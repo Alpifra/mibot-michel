@@ -1,5 +1,6 @@
 import Countries from "../data/country.json"
 import shoetest from "shoetest"
+import confetti from "canvas-confetti"
 
 export default class FlagGame {
 
@@ -31,6 +32,11 @@ export default class FlagGame {
         this.winner = username
         this.nodeCongrats.getElementsByTagName('p')[0].innerText = "Bravo " + this.winner + " !!"
         this.nodeCongrats.classList.remove('hide')
+        confetti({
+            particleCount: 100,
+            spread: 70,
+            origin: { y: 1 }
+        });
     }
 
     showAnswer() {
@@ -38,7 +44,7 @@ export default class FlagGame {
     }
 
     isCorrect(context, msg) {
-        if (shoetest.test(this.flag.name, msg)) {
+        if (shoetest.test(this.flag.name, msg) && !this.found) {
             this.found = true
             this.showAnswer()
             this.setWinner(context['display-name'])
