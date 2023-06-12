@@ -5,7 +5,8 @@
     "continent": "Asia",
     "flag_image": "img/flags/af.svg",
     "iso": true,
-  "name": "Afghanistan"
+    "nation": true,
+    "name": "Afghanistan"
   },
   {
     "capital": "Mariehamn",
@@ -13,6 +14,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/ax.svg",
     "iso": true,
+    "nation": false,
     "name": "Aland (Îles)"
   },
   {
@@ -21,6 +23,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/al.svg",
     "iso": true,
+    "nation": true,
     "name": "Albanie"
   },
   {
@@ -29,6 +32,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/dz.svg",
     "iso": true,
+    "nation": true,
     "name": "Algérie"
   },
   {
@@ -37,6 +41,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/as.svg",
     "iso": true,
+    "nation": false,
     "name": "Samoa Américaines"
   },
   {
@@ -45,6 +50,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/ad.svg",
     "iso": true,
+    "nation": true,
     "name": "Andorre"
   },
   {
@@ -53,6 +59,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/ao.svg",
     "iso": true,
+    "nation": true,
     "name": "Angola"
   },
   {
@@ -61,12 +68,14 @@
     "continent": "North America",
     "flag_image": "img/flags/ai.svg",
     "iso": true,
+    "nation": false,
     "name": "Anguilla"
   },
   {
     "code": "aq",
     "flag_image": "img/flags/aq.svg",
     "iso": true,
+    "nation": false,
     "name": "Antarctique"
   },
   {
@@ -75,6 +84,7 @@
     "continent": "North America",
     "flag_image": "img/flags/ag.svg",
     "iso": true,
+    "nation": true,
     "name": "Antigua et Barbuda"
   },
   {
@@ -83,6 +93,7 @@
     "continent": "South America",
     "flag_image": "img/flags/ar.svg",
     "iso": true,
+    "nation": true,
     "name": "Argentine"
   },
   {
@@ -91,6 +102,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/am.svg",
     "iso": true,
+    "nation": true,
     "name": "Arménie"
   },
   {
@@ -99,6 +111,7 @@
     "continent": "South America",
     "flag_image": "img/flags/aw.svg",
     "iso": true,
+    "nation": false,
     "name": "Aruba"
   },
   {
@@ -107,6 +120,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/ac.svg",
     "iso": false,
+    "nation": false,
     "name": "Île de l'Ascension"
   },
   {
@@ -115,6 +129,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/au.svg",
     "iso": true,
+    "nation": true,
     "name": "Australie"
   },
   {
@@ -123,6 +138,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/at.svg",
     "iso": true,
+    "nation": true,
     "name": "Autriche"
   },
   {
@@ -131,6 +147,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/az.svg",
     "iso": true,
+    "nation": true,
     "name": "Azerbaïdjan"
   },
   {
@@ -139,6 +156,7 @@
     "continent": "North America",
     "flag_image": "img/flags/bs.svg",
     "iso": true,
+    "nation": true,
     "name": "Bahamas"
   },
   {
@@ -147,6 +165,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/bh.svg",
     "iso": true,
+    "nation": true,
     "name": "Bahreïn"
   },
   {
@@ -155,6 +174,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/bd.svg",
     "iso": true,
+    "nation": true,
     "name": "Bangladesh"
   },
   {
@@ -163,6 +183,7 @@
     "continent": "North America",
     "flag_image": "img/flags/bb.svg",
     "iso": true,
+    "nation": true,
     "name": "Barbade"
   },
   {
@@ -171,6 +192,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/by.svg",
     "iso": true,
+    "nation": true,
     "name": "Biélorussie"
   },
   {
@@ -179,6 +201,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/be.svg",
     "iso": true,
+    "nation": true,
     "name": "Belgique"
   },
   {
@@ -187,6 +210,7 @@
     "continent": "North America",
     "flag_image": "img/flags/bz.svg",
     "iso": true,
+    "nation": true,
     "name": "Belize"
   },
   {
@@ -195,7 +219,8 @@
     "continent": "Africa",
     "flag_image": "img/flags/bj.svg",
     "iso": true,
-    "name": "Bermudes"
+    "nation": true,
+    "name": "Benin"
   },
   {
     "capital": "Hamilton",
@@ -203,6 +228,7 @@
     "continent": "North America",
     "flag_image": "img/flags/bm.svg",
     "iso": true,
+    "nation": false,
     "name": "Bermudes"
   },
   {
@@ -211,6 +237,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/bt.svg",
     "iso": true,
+    "nation": true,
     "name": "Bhoutan"
   },
   {
@@ -219,6 +246,7 @@
     "continent": "South America",
     "flag_image": "img/flags/bo.svg",
     "iso": true,
+    "nation": true,
     "name": "Bolivie"
   },
   {
@@ -227,6 +255,7 @@
     "continent": "South America",
     "flag_image": "img/flags/bq.svg",
     "iso": true,
+    "nation": false,
     "name": "Bonaire, Sint Eustatius et Saba"
   },
   {
@@ -235,6 +264,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/ba.svg",
     "iso": true,
+    "nation": true,
     "name": "Bosnie et Herzégovine"
   },
   {
@@ -243,12 +273,14 @@
     "continent": "Africa",
     "flag_image": "img/flags/bw.svg",
     "iso": true,
+    "nation": true,
     "name": "Botswana"
   },
   {
     "code": "bv",
     "flag_image": "img/flags/bv.svg",
     "iso": true,
+    "nation": false,
     "name": "Bouvet (Île)"
   },
   {
@@ -257,6 +289,7 @@
     "continent": "South America",
     "flag_image": "img/flags/br.svg",
     "iso": true,
+    "nation": true,
     "name": "Brésil"
   },
   {
@@ -265,6 +298,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/io.svg",
     "iso": true,
+    "nation": false,
     "name": "Territoire britannique de l'océan Indien"
   },
   {
@@ -273,6 +307,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/bn.svg",
     "iso": true,
+    "nation": true,
     "name": "Brunei Darussalam"
   },
   {
@@ -281,6 +316,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/bg.svg",
     "iso": true,
+    "nation": true,
     "name": "Bulgarie"
   },
   {
@@ -289,6 +325,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/bf.svg",
     "iso": true,
+    "nation": true,
     "name": "Burkina Faso"
   },
   {
@@ -297,6 +334,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/bi.svg",
     "iso": true,
+    "nation": true,
     "name": "Burundi"
   },
   {
@@ -305,7 +343,8 @@
     "continent": "Africa",
     "flag_image": "img/flags/cv.svg",
     "iso": true,
-    "name": "Cabo Verde"
+    "nation": false,
+    "name": "Cap Vert"
   },
   {
     "capital": "Phnom Penh",
@@ -313,6 +352,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/kh.svg",
     "iso": true,
+    "nation": true,
     "name": "Cambodge"
   },
   {
@@ -321,6 +361,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/cm.svg",
     "iso": true,
+    "nation": true,
     "name": "Cameroun"
   },
   {
@@ -329,24 +370,28 @@
     "continent": "North America",
     "flag_image": "img/flags/ca.svg",
     "iso": true,
+    "nation": true,
     "name": "Canada"
   },
   {
     "code": "ic",
     "flag_image": "img/flags/ic.svg",
     "iso": false,
+    "nation": false,
     "name": "Îles Canaries"
   },
   {
     "code": "es-ct",
     "flag_image": "img/flags/es-ct.svg",
     "iso": false,
+    "nation": false,
     "name": "Catalogne"
   },
   {
     "code": "es-pv",
     "flag_image": "img/flags/es-pv.svg",
     "iso": false,
+    "nation": false,
     "name": "Pays Basque"
   },
   {
@@ -355,6 +400,7 @@
     "continent": "North America",
     "flag_image": "img/flags/ky.svg",
     "iso": true,
+    "nation": false,
     "name": "Îles Caïmans"
   },
   {
@@ -363,18 +409,14 @@
     "continent": "Africa",
     "flag_image": "img/flags/cf.svg",
     "iso": true,
+    "nation": true,
     "name": "République centrafricaine"
-  },
-  {
-    "code": "cefta",
-    "flag_image": "img/flags/cefta.svg",
-    "iso": false,
-    "name": "Accord de libre-échange centre-européen"
   },
   {
     "code": "ea",
     "flag_image": "img/flags/ea.svg",
     "iso": false,
+    "nation": false,
     "name": "Ceuta & Melilla"
   },
   {
@@ -383,6 +425,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/td.svg",
     "iso": true,
+    "nation": true,
     "name": "Tchad"
   },
   {
@@ -391,6 +434,7 @@
     "continent": "South America",
     "flag_image": "img/flags/cl.svg",
     "iso": true,
+    "nation": true,
     "name": "Chili"
   },
   {
@@ -399,6 +443,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/cn.svg",
     "iso": true,
+    "nation": true,
     "name": "Chine"
   },
   {
@@ -407,12 +452,14 @@
     "continent": "Asia",
     "flag_image": "img/flags/cx.svg",
     "iso": true,
+    "nation": false,
     "name": "Île Christmas"
   },
   {
     "code": "cp",
     "flag_image": "img/flags/cp.svg",
     "iso": false,
+    "nation": false,
     "name": "Île Clipperton"
   },
   {
@@ -421,6 +468,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/cc.svg",
     "iso": true,
+    "nation": false,
     "name": "Îles Cocos (Keeling)"
   },
   {
@@ -429,6 +477,7 @@
     "continent": "South America",
     "flag_image": "img/flags/co.svg",
     "iso": true,
+    "nation": true,
     "name": "Colombie"
   },
   {
@@ -437,6 +486,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/km.svg",
     "iso": true,
+    "nation": true,
     "name": "Comores"
   },
   {
@@ -445,6 +495,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/ck.svg",
     "iso": true,
+    "nation": false,
     "name": "Cook (Îles)"
   },
   {
@@ -453,6 +504,7 @@
     "continent": "North America",
     "flag_image": "img/flags/cr.svg",
     "iso": true,
+    "nation": true,
     "name": "Costa Rica"
   },
   {
@@ -461,6 +513,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/hr.svg",
     "iso": true,
+    "nation": true,
     "name": "Croatie"
   },
   {
@@ -469,6 +522,7 @@
     "continent": "North America",
     "flag_image": "img/flags/cu.svg",
     "iso": true,
+    "nation": true,
     "name": "Cuba"
   },
   {
@@ -477,6 +531,7 @@
     "continent": "South America",
     "flag_image": "img/flags/cw.svg",
     "iso": true,
+    "nation": false,
     "name": "Curaçao"
   },
   {
@@ -485,6 +540,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/cy.svg",
     "iso": true,
+    "nation": true,
     "name": "Chypre"
   },
   {
@@ -493,6 +549,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/cz.svg",
     "iso": true,
+    "nation": true,
     "name": "République Tchèque"
   },
   {
@@ -501,6 +558,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/ci.svg",
     "iso": true,
+    "nation": true,
     "name": "Côte d'Ivoire"
   },
   {
@@ -509,6 +567,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/cd.svg",
     "iso": true,
+    "nation": true,
     "name": "République démocratique du Congo"
   },
   {
@@ -517,12 +576,14 @@
     "continent": "Europe",
     "flag_image": "img/flags/dk.svg",
     "iso": true,
+    "nation": true,
     "name": "Danemark"
   },
   {
     "code": "dg",
     "flag_image": "img/flags/dg.svg",
     "iso": false,
+    "nation": false,
     "name": "Diego Garcia"
   },
   {
@@ -531,6 +592,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/dj.svg",
     "iso": true,
+    "nation": true,
     "name": "Djibouti"
   },
   {
@@ -539,6 +601,7 @@
     "continent": "North America",
     "flag_image": "img/flags/dm.svg",
     "iso": true,
+    "nation": true,
     "name": "Dominique"
   },
   {
@@ -547,6 +610,7 @@
     "continent": "North America",
     "flag_image": "img/flags/do.svg",
     "iso": true,
+    "nation": true,
     "name": "République dominicaine"
   },
   {
@@ -555,6 +619,7 @@
     "continent": "South America",
     "flag_image": "img/flags/ec.svg",
     "iso": true,
+    "nation": true,
     "name": "Equateur"
   },
   {
@@ -563,6 +628,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/eg.svg",
     "iso": true,
+    "nation": true,
     "name": "Égypte"
   },
   {
@@ -571,7 +637,8 @@
     "continent": "North America",
     "flag_image": "img/flags/sv.svg",
     "iso": true,
-    "name": "El Salvador"
+    "nation": true,
+    "name": "Salvador"
   },
   {
     "capital": "London",
@@ -579,6 +646,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/gb-eng.svg",
     "iso": false,
+    "nation": false,
     "name": "Angleterre"
   },
   {
@@ -587,6 +655,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/gq.svg",
     "iso": true,
+    "nation": true,
     "name": "Guinée équatoriale"
   },
   {
@@ -595,6 +664,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/er.svg",
     "iso": true,
+    "nation": true,
     "name": "Erythrée"
   },
   {
@@ -603,6 +673,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/ee.svg",
     "iso": true,
+    "nation": true,
     "name": "Estonie"
   },
   {
@@ -611,6 +682,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/sz.svg",
     "iso": true,
+    "nation": true,
     "name": "Eswatini"
   },
   {
@@ -619,13 +691,8 @@
     "continent": "Africa",
     "flag_image": "img/flags/et.svg",
     "iso": true,
+    "nation": true,
     "name": "Éthiopie"
-  },
-  {
-    "code": "eu",
-    "flag_image": "img/flags/eu.svg",
-    "iso": false,
-    "name": "Europe"
   },
   {
     "capital": "Stanley",
@@ -633,6 +700,7 @@
     "continent": "South America",
     "flag_image": "img/flags/fk.svg",
     "iso": true,
+    "nation": false,
     "name": "Falkland (Îles)"
   },
   {
@@ -641,6 +709,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/fo.svg",
     "iso": true,
+    "nation": false,
     "name": "Îles Féroé"
   },
   {
@@ -649,6 +718,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/fm.svg",
     "iso": true,
+    "nation": false,
     "name": "États fédérés de Micronésie"
   },
   {
@@ -657,6 +727,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/fj.svg",
     "iso": true,
+    "nation": true,
     "name": "Fiji"
   },
   {
@@ -665,6 +736,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/fi.svg",
     "iso": true,
+    "nation": true,
     "name": "Finlande"
   },
   {
@@ -673,6 +745,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/fr.svg",
     "iso": true,
+    "nation": true,
     "name": "France"
   },
   {
@@ -681,6 +754,7 @@
     "continent": "South America",
     "flag_image": "img/flags/gf.svg",
     "iso": true,
+    "nation": false,
     "name": "Guyane française"
   },
   {
@@ -689,6 +763,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/pf.svg",
     "iso": true,
+    "nation": false,
     "name": "Polynésie française"
   },
   {
@@ -697,6 +772,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/tf.svg",
     "iso": true,
+    "nation": false,
     "name": "Terres australes françaises"
   },
   {
@@ -705,12 +781,14 @@
     "continent": "Africa",
     "flag_image": "img/flags/ga.svg",
     "iso": true,
+    "nation": true,
     "name": "Gabon"
   },
   {
     "code": "es-ga",
     "flag_image": "img/flags/es-ga.svg",
     "iso": false,
+    "nation": false,
     "name": "Galice"
   },
   {
@@ -719,6 +797,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/gm.svg",
     "iso": true,
+    "nation": true,
     "name": "Gambie"
   },
   {
@@ -727,6 +806,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/ge.svg",
     "iso": true,
+    "nation": true,
     "name": "Géorgie"
   },
   {
@@ -735,6 +815,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/de.svg",
     "iso": true,
+    "nation": true,
     "name": "Allemagne"
   },
   {
@@ -743,6 +824,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/gh.svg",
     "iso": true,
+    "nation": true,
     "name": "Ghana"
   },
   {
@@ -751,6 +833,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/gi.svg",
     "iso": true,
+    "nation": false,
     "name": "Gibraltar"
   },
   {
@@ -759,6 +842,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/gr.svg",
     "iso": true,
+    "nation": true,
     "name": "Grèce"
   },
   {
@@ -767,6 +851,7 @@
     "continent": "North America",
     "flag_image": "img/flags/gl.svg",
     "iso": true,
+    "nation": true,
     "name": "Groenland"
   },
   {
@@ -775,6 +860,7 @@
     "continent": "North America",
     "flag_image": "img/flags/gd.svg",
     "iso": true,
+    "nation": true,
     "name": "Grenade"
   },
   {
@@ -783,6 +869,7 @@
     "continent": "North America",
     "flag_image": "img/flags/gp.svg",
     "iso": true,
+    "nation": false,
     "name": "Guadeloupe"
   },
   {
@@ -791,6 +878,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/gu.svg",
     "iso": true,
+    "nation": false,
     "name": "Guam"
   },
   {
@@ -799,6 +887,7 @@
     "continent": "North America",
     "flag_image": "img/flags/gt.svg",
     "iso": true,
+    "nation": true,
     "name": "Guatemala"
   },
   {
@@ -807,6 +896,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/gg.svg",
     "iso": true,
+    "nation": false,
     "name": "Guernesey"
   },
   {
@@ -815,6 +905,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/gn.svg",
     "iso": true,
+    "nation": true,
     "name": "Guinée"
   },
   {
@@ -823,6 +914,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/gw.svg",
     "iso": true,
+    "nation": true,
     "name": "Guinée-Bissau"
   },
   {
@@ -831,6 +923,7 @@
     "continent": "South America",
     "flag_image": "img/flags/gy.svg",
     "iso": true,
+    "nation": true,
     "name": "Guyana"
   },
   {
@@ -839,12 +932,14 @@
     "continent": "North America",
     "flag_image": "img/flags/ht.svg",
     "iso": true,
+    "nation": true,
     "name": "Haïti"
   },
   {
     "code": "hm",
     "flag_image": "img/flags/hm.svg",
     "iso": true,
+    "nation": false,
     "name": "Heard Island et McDonald Islands"
   },
   {
@@ -853,6 +948,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/va.svg",
     "iso": true,
+    "nation": false,
     "name": "Saint-Siège"
   },
   {
@@ -861,6 +957,7 @@
     "continent": "North America",
     "flag_image": "img/flags/hn.svg",
     "iso": true,
+    "nation": true,
     "name": "Honduras"
   },
   {
@@ -869,6 +966,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/hk.svg",
     "iso": true,
+    "nation": false,
     "name": "Hong Kong"
   },
   {
@@ -877,6 +975,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/hu.svg",
     "iso": true,
+    "nation": true,
     "name": "Hongrie"
   },
   {
@@ -885,6 +984,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/is.svg",
     "iso": true,
+    "nation": true,
     "name": "Islande"
   },
   {
@@ -893,6 +993,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/in.svg",
     "iso": true,
+    "nation": true,
     "name": "Inde"
   },
   {
@@ -901,7 +1002,8 @@
     "continent": "Asia",
     "flag_image": "img/flags/id.svg",
     "iso": true,
-    "name": "Indonésie (en anglais)"
+    "nation": true,
+    "name": "Indonésie"
   },
   {
     "capital": "Tehran",
@@ -909,7 +1011,8 @@
     "continent": "Asia",
     "flag_image": "img/flags/ir.svg",
     "iso": true,
-    "name": "Iran (en anglais)"
+    "nation": true,
+    "name": "Iran"
   },
   {
     "capital": "Baghdad",
@@ -917,6 +1020,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/iq.svg",
     "iso": true,
+    "nation": true,
     "name": "Irak"
   },
   {
@@ -925,6 +1029,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/ie.svg",
     "iso": true,
+    "nation": true,
     "name": "Irlande"
   },
   {
@@ -933,6 +1038,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/im.svg",
     "iso": true,
+    "nation": false,
     "name": "Île de Man"
   },
   {
@@ -941,6 +1047,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/il.svg",
     "iso": true,
+    "nation": true,
     "name": "Israël"
   },
   {
@@ -949,6 +1056,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/it.svg",
     "iso": true,
+    "nation": true,
     "name": "Italie"
   },
   {
@@ -957,6 +1065,7 @@
     "continent": "North America",
     "flag_image": "img/flags/jm.svg",
     "iso": true,
+    "nation": true,
     "name": "Jamaïque"
   },
   {
@@ -965,6 +1074,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/jp.svg",
     "iso": true,
+    "nation": true,
     "name": "Japon"
   },
   {
@@ -973,6 +1083,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/je.svg",
     "iso": true,
+    "nation": false,
     "name": "Jersey"
   },
   {
@@ -981,6 +1092,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/jo.svg",
     "iso": true,
+    "nation": true,
     "name": "Jordanie"
   },
   {
@@ -989,6 +1101,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/kz.svg",
     "iso": true,
+    "nation": true,
     "name": "Kazakhstan"
   },
   {
@@ -997,6 +1110,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/ke.svg",
     "iso": true,
+    "nation": true,
     "name": "Kenya"
   },
   {
@@ -1005,6 +1119,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/ki.svg",
     "iso": true,
+    "nation": true,
     "name": "Kiribati"
   },
   {
@@ -1013,7 +1128,8 @@
     "continent": "Europe",
     "flag_image": "img/flags/xk.svg",
     "iso": false,
-    "name": "Kosovo (en anglais)"
+    "nation": false,
+    "name": "Kosovo"
   },
   {
     "capital": "Kuwait City",
@@ -1021,6 +1137,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/kw.svg",
     "iso": true,
+    "nation": true,
     "name": "Koweït"
   },
   {
@@ -1029,6 +1146,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/kg.svg",
     "iso": true,
+    "nation": true,
     "name": "Kyrgyzstan"
   },
   {
@@ -1037,6 +1155,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/la.svg",
     "iso": true,
+    "nation": true,
     "name": "Laos"
   },
   {
@@ -1045,6 +1164,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/lv.svg",
     "iso": true,
+    "nation": true,
     "name": "Lettonie"
   },
   {
@@ -1053,7 +1173,8 @@
     "continent": "Asia",
     "flag_image": "img/flags/lb.svg",
     "iso": true,
-    "name": "Lettonie"
+    "nation": true,
+    "name": "Liban"
   },
   {
     "capital": "Maseru",
@@ -1061,6 +1182,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/ls.svg",
     "iso": true,
+    "nation": true,
     "name": "Lesotho"
   },
   {
@@ -1069,6 +1191,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/lr.svg",
     "iso": true,
+    "nation": true,
     "name": "Libéria"
   },
   {
@@ -1077,7 +1200,8 @@
     "continent": "Africa",
     "flag_image": "img/flags/ly.svg",
     "iso": true,
-    "name": "Libéria"
+    "nation": true,
+    "name": "Libye"
   },
   {
     "capital": "Vaduz",
@@ -1085,6 +1209,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/li.svg",
     "iso": true,
+    "nation": true,
     "name": "Liechtenstein"
   },
   {
@@ -1093,6 +1218,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/lt.svg",
     "iso": true,
+    "nation": true,
     "name": "Lituanie"
   },
   {
@@ -1101,6 +1227,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/lu.svg",
     "iso": true,
+    "nation": true,
     "name": "Luxembourg"
   },
   {
@@ -1109,6 +1236,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/mo.svg",
     "iso": true,
+    "nation": false,
     "name": "Macao"
   },
   {
@@ -1117,6 +1245,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/mg.svg",
     "iso": true,
+    "nation": true,
     "name": "Madagascar"
   },
   {
@@ -1125,6 +1254,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/mw.svg",
     "iso": true,
+    "nation": true,
     "name": "Malawi"
   },
   {
@@ -1133,6 +1263,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/my.svg",
     "iso": true,
+    "nation": true,
     "name": "Malaisie"
   },
   {
@@ -1141,6 +1272,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/mv.svg",
     "iso": true,
+    "nation": true,
     "name": "Maldives"
   },
   {
@@ -1149,6 +1281,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/ml.svg",
     "iso": true,
+    "nation": true,
     "name": "Mali"
   },
   {
@@ -1157,6 +1290,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/mt.svg",
     "iso": true,
+    "nation": true,
     "name": "Malte"
   },
   {
@@ -1165,7 +1299,8 @@
     "continent": "Oceania",
     "flag_image": "img/flags/mh.svg",
     "iso": true,
-    "name": "Marshall (Îles)"
+    "nation": true,
+    "name": "Îles Marshall"
   },
   {
     "capital": "Fort-de-France",
@@ -1173,6 +1308,7 @@
     "continent": "North America",
     "flag_image": "img/flags/mq.svg",
     "iso": true,
+    "nation": true,
     "name": "Martinique"
   },
   {
@@ -1181,6 +1317,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/mr.svg",
     "iso": true,
+    "nation": true,
     "name": "Mauritanie"
   },
   {
@@ -1189,7 +1326,8 @@
     "continent": "Africa",
     "flag_image": "img/flags/mu.svg",
     "iso": true,
-    "name": "Mauritanie"
+    "nation": true,
+    "name": "Maurice"
   },
   {
     "capital": "Mamoudzou",
@@ -1197,6 +1335,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/yt.svg",
     "iso": true,
+    "nation": false,
     "name": "Mayotte"
   },
   {
@@ -1205,6 +1344,7 @@
     "continent": "North America",
     "flag_image": "img/flags/mx.svg",
     "iso": true,
+    "nation": true,
     "name": "Mexique"
   },
   {
@@ -1213,6 +1353,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/md.svg",
     "iso": true,
+    "nation": true,
     "name": "Moldavie"
   },
   {
@@ -1221,6 +1362,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/mc.svg",
     "iso": true,
+    "nation": false,
     "name": "Monaco"
   },
   {
@@ -1229,6 +1371,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/mn.svg",
     "iso": true,
+    "nation": true,
     "name": "Mongolie"
   },
   {
@@ -1237,6 +1380,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/me.svg",
     "iso": true,
+    "nation": true,
     "name": "Monténégro"
   },
   {
@@ -1245,6 +1389,7 @@
     "continent": "North America",
     "flag_image": "img/flags/ms.svg",
     "iso": true,
+    "nation": false,
     "name": "Montserrat"
   },
   {
@@ -1253,7 +1398,8 @@
     "continent": "Africa",
     "flag_image": "img/flags/ma.svg",
     "iso": true,
-    "name": "Maroc (en anglais)"
+    "nation": true,
+    "name": "Maroc"
   },
   {
     "capital": "Maputo",
@@ -1261,6 +1407,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/mz.svg",
     "iso": true,
+    "nation": true,
     "name": "Mozambique"
   },
   {
@@ -1269,6 +1416,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/mm.svg",
     "iso": true,
+    "nation": true,
     "name": "Myanmar"
   },
   {
@@ -1277,6 +1425,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/na.svg",
     "iso": true,
+    "nation": true,
     "name": "Namibie"
   },
   {
@@ -1285,6 +1434,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/nr.svg",
     "iso": true,
+    "nation": true,
     "name": "Nauru"
   },
   {
@@ -1293,6 +1443,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/np.svg",
     "iso": true,
+    "nation": true,
     "name": "Népal"
   },
   {
@@ -1301,6 +1452,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/nl.svg",
     "iso": true,
+    "nation": true,
     "name": "Pays-Bas"
   },
   {
@@ -1309,6 +1461,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/nc.svg",
     "iso": true,
+    "nation": true,
     "name": "Nouvelle Calédonie"
   },
   {
@@ -1317,6 +1470,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/nz.svg",
     "iso": true,
+    "nation": true,
     "name": "Nouvelle Zélande"
   },
   {
@@ -1325,6 +1479,7 @@
     "continent": "North America",
     "flag_image": "img/flags/ni.svg",
     "iso": true,
+    "nation": true,
     "name": "Nicaragua"
   },
   {
@@ -1333,6 +1488,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/ne.svg",
     "iso": true,
+    "nation": true,
     "name": "Niger"
   },
   {
@@ -1341,6 +1497,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/ng.svg",
     "iso": true,
+    "nation": true,
     "name": "Nigéria"
   },
   {
@@ -1349,6 +1506,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/nu.svg",
     "iso": true,
+    "nation": false,
     "name": "Niue"
   },
   {
@@ -1357,6 +1515,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/nf.svg",
     "iso": true,
+    "nation": false,
     "name": "Île Norfolk"
   },
   {
@@ -1365,6 +1524,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/kp.svg",
     "iso": true,
+    "nation": true,
     "name": "Corée du Nord"
   },
   {
@@ -1373,6 +1533,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/mk.svg",
     "iso": true,
+    "nation": true,
     "name": "Macédoine du Nord"
   },
   {
@@ -1381,6 +1542,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/gb-nir.svg",
     "iso": false,
+    "nation": false,
     "name": "Irlande du Nord"
   },
   {
@@ -1389,6 +1551,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/mp.svg",
     "iso": true,
+    "nation": false,
     "name": "Mariannes du Nord (Îles)"
   },
   {
@@ -1397,6 +1560,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/no.svg",
     "iso": true,
+    "nation": true,
     "name": "Norvège"
   },
   {
@@ -1405,6 +1569,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/om.svg",
     "iso": true,
+    "nation": true,
     "name": "Oman"
   },
   {
@@ -1413,7 +1578,8 @@
     "continent": "Asia",
     "flag_image": "img/flags/pk.svg",
     "iso": true,
-    "name": "Pakistan (en anglais)"
+    "nation": true,
+    "name": "Pakistan"
   },
   {
     "capital": "Ngerulmud",
@@ -1421,6 +1587,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/pw.svg",
     "iso": true,
+    "nation": true,
     "name": "Palau"
   },
   {
@@ -1429,6 +1596,7 @@
     "continent": "North America",
     "flag_image": "img/flags/pa.svg",
     "iso": true,
+    "nation": true,
     "name": "Panama"
   },
   {
@@ -1437,6 +1605,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/pg.svg",
     "iso": true,
+    "nation": true,
     "name": "Papouasie-Nouvelle-Guinée"
   },
   {
@@ -1445,6 +1614,7 @@
     "continent": "South America",
     "flag_image": "img/flags/py.svg",
     "iso": true,
+    "nation": true,
     "name": "Paraguay"
   },
   {
@@ -1453,6 +1623,7 @@
     "continent": "South America",
     "flag_image": "img/flags/pe.svg",
     "iso": true,
+    "nation": true,
     "name": "Pérou"
   },
   {
@@ -1461,6 +1632,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/ph.svg",
     "iso": true,
+    "nation": true,
     "name": "Philippines"
   },
   {
@@ -1469,6 +1641,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/pn.svg",
     "iso": true,
+    "nation": false,
     "name": "Pitcairn"
   },
   {
@@ -1477,6 +1650,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/pl.svg",
     "iso": true,
+    "nation": true,
     "name": "Pologne"
   },
   {
@@ -1485,6 +1659,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/pt.svg",
     "iso": true,
+    "nation": true,
     "name": "Portugal"
   },
   {
@@ -1493,6 +1668,7 @@
     "continent": "North America",
     "flag_image": "img/flags/pr.svg",
     "iso": true,
+    "nation": false,
     "name": "Puerto Rico"
   },
   {
@@ -1501,6 +1677,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/qa.svg",
     "iso": true,
+    "nation": true,
     "name": "Qatar"
   },
   {
@@ -1509,6 +1686,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/cg.svg",
     "iso": true,
+    "nation": true,
     "name": "République du Congo"
   },
   {
@@ -1517,6 +1695,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/ro.svg",
     "iso": true,
+    "nation": true,
     "name": "Roumanie"
   },
   {
@@ -1525,6 +1704,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/ru.svg",
     "iso": true,
+    "nation": true,
     "name": "Russie"
   },
   {
@@ -1533,6 +1713,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/rw.svg",
     "iso": true,
+    "nation": true,
     "name": "Rwanda"
   },
   {
@@ -1541,6 +1722,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/re.svg",
     "iso": true,
+    "nation": false,
     "name": "Réunion"
   },
   {
@@ -1549,6 +1731,7 @@
     "continent": "North America",
     "flag_image": "img/flags/bl.svg",
     "iso": true,
+    "nation": false,
     "name": "Saint Barthélemy"
   },
   {
@@ -1557,6 +1740,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/sh.svg",
     "iso": true,
+    "nation": false,
     "name": "Sainte-Hélène, Ascension et Tristan da Cunha"
   },
   {
@@ -1565,6 +1749,7 @@
     "continent": "North America",
     "flag_image": "img/flags/kn.svg",
     "iso": true,
+    "nation": true,
     "name": "Saint Kitts et Nevis"
   },
   {
@@ -1573,6 +1758,7 @@
     "continent": "North America",
     "flag_image": "img/flags/lc.svg",
     "iso": true,
+    "nation": true,
     "name": "Sainte-Lucie"
   },
   {
@@ -1581,6 +1767,7 @@
     "continent": "North America",
     "flag_image": "img/flags/mf.svg",
     "iso": true,
+    "nation": false,
     "name": "Saint Martin"
   },
   {
@@ -1589,6 +1776,7 @@
     "continent": "North America",
     "flag_image": "img/flags/pm.svg",
     "iso": true,
+    "nation": false,
     "name": "Saint Pierre et Miquelon"
   },
   {
@@ -1597,6 +1785,7 @@
     "continent": "North America",
     "flag_image": "img/flags/vc.svg",
     "iso": true,
+    "nation": true,
     "name": "Saint-Vincent-et-les-Grenadines"
   },
   {
@@ -1605,6 +1794,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/ws.svg",
     "iso": true,
+    "nation": true,
     "name": "Samoa"
   },
   {
@@ -1613,6 +1803,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/sm.svg",
     "iso": true,
+    "nation": true,
     "name": "Saint-Marin"
   },
   {
@@ -1621,6 +1812,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/st.svg",
     "iso": true,
+    "nation": true,
     "name": "Sao Tomé et Principe"
   },
   {
@@ -1629,6 +1821,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/sa.svg",
     "iso": true,
+    "nation": true,
     "name": "Arabie Saoudite"
   },
   {
@@ -1637,6 +1830,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/gb-sct.svg",
     "iso": false,
+    "nation": true,
     "name": "Ecosse"
   },
   {
@@ -1645,6 +1839,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/sn.svg",
     "iso": true,
+    "nation": true,
     "name": "Sénégal"
   },
   {
@@ -1653,6 +1848,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/rs.svg",
     "iso": true,
+    "nation": true,
     "name": "Serbie"
   },
   {
@@ -1661,6 +1857,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/sc.svg",
     "iso": true,
+    "nation": true,
     "name": "Seychelles"
   },
   {
@@ -1669,6 +1866,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/sl.svg",
     "iso": true,
+    "nation": true,
     "name": "Sierra Leone"
   },
   {
@@ -1677,6 +1875,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/sg.svg",
     "iso": true,
+    "nation": true,
     "name": "Singapour"
   },
   {
@@ -1685,6 +1884,7 @@
     "continent": "North America",
     "flag_image": "img/flags/sx.svg",
     "iso": true,
+    "nation": false,
     "name": "Sint Maarten"
   },
   {
@@ -1693,6 +1893,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/sk.svg",
     "iso": true,
+    "nation": true,
     "name": "Slovaquie"
   },
   {
@@ -1701,6 +1902,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/si.svg",
     "iso": true,
+    "nation": true,
     "name": "Slovénie"
   },
   {
@@ -1709,7 +1911,8 @@
     "continent": "Oceania",
     "flag_image": "img/flags/sb.svg",
     "iso": true,
-    "name": "Salomon (Îles)"
+    "nation": true,
+    "name": "Îles Salomon"
   },
   {
     "capital": "Mogadishu",
@@ -1717,6 +1920,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/so.svg",
     "iso": true,
+    "nation": true,
     "name": "Somalie"
   },
   {
@@ -1725,6 +1929,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/za.svg",
     "iso": true,
+    "nation": true,
     "name": "Afrique du Sud"
   },
   {
@@ -1733,6 +1938,7 @@
     "continent": "Antarctica",
     "flag_image": "img/flags/gs.svg",
     "iso": true,
+    "nation": false,
     "name": "Géorgie du Sud et les îles Sandwich du Sud"
   },
   {
@@ -1741,6 +1947,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/kr.svg",
     "iso": true,
+    "nation": true,
     "name": "Corée du Sud"
   },
   {
@@ -1749,7 +1956,8 @@
     "continent": "Africa",
     "flag_image": "img/flags/ss.svg",
     "iso": true,
-    "name": "Sud Soudan"
+    "nation": true,
+    "name": "Soudan du Sud"
   },
   {
     "capital": "Madrid",
@@ -1757,6 +1965,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/es.svg",
     "iso": true,
+    "nation": true,
     "name": "Espagne"
   },
   {
@@ -1765,6 +1974,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/lk.svg",
     "iso": true,
+    "nation": true,
     "name": "Sri Lanka"
   },
   {
@@ -1773,7 +1983,8 @@
     "continent": "Asia",
     "flag_image": "img/flags/ps.svg",
     "iso": true,
-    "name": "État de Palestine"
+    "nation": true,
+    "name": "Palestine"
   },
   {
     "capital": "Khartoum",
@@ -1781,6 +1992,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/sd.svg",
     "iso": true,
+    "nation": true,
     "name": "Soudan"
   },
   {
@@ -1789,6 +2001,7 @@
     "continent": "South America",
     "flag_image": "img/flags/sr.svg",
     "iso": true,
+    "nation": true,
     "name": "Suriname"
   },
   {
@@ -1797,6 +2010,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/sj.svg",
     "iso": true,
+    "nation": false,
     "name": "Svalbard et Jan Mayen"
   },
   {
@@ -1805,6 +2019,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/se.svg",
     "iso": true,
+    "nation": true,
     "name": "Suède"
   },
   {
@@ -1813,6 +2028,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/ch.svg",
     "iso": true,
+    "nation": true,
     "name": "Suisse"
   },
   {
@@ -1821,6 +2037,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/sy.svg",
     "iso": true,
+    "nation": true,
     "name": "Syrie"
   },
   {
@@ -1829,6 +2046,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/tw.svg",
     "iso": true,
+    "nation": true,
     "name": "Taïwan"
   },
   {
@@ -1837,6 +2055,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/tj.svg",
     "iso": true,
+    "nation": true,
     "name": "Tadjikistan"
   },
   {
@@ -1845,6 +2064,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/tz.svg",
     "iso": true,
+    "nation": true,
     "name": "Tanzanie"
   },
   {
@@ -1853,6 +2073,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/th.svg",
     "iso": true,
+    "nation": true,
     "name": "Thaïlande"
   },
   {
@@ -1861,6 +2082,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/tl.svg",
     "iso": true,
+    "nation": true,
     "name": "Timor-Leste"
   },
   {
@@ -1869,6 +2091,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/tg.svg",
     "iso": true,
+    "nation": true,
     "name": "Togo"
   },
   {
@@ -1877,6 +2100,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/tk.svg",
     "iso": true,
+    "nation": false,
     "name": "Tokelau"
   },
   {
@@ -1885,6 +2109,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/to.svg",
     "iso": true,
+    "nation": true,
     "name": "Tonga"
   },
   {
@@ -1893,12 +2118,14 @@
     "continent": "South America",
     "flag_image": "img/flags/tt.svg",
     "iso": true,
+    "nation": true,
     "name": "Trinité et Tobago"
   },
   {
     "code": "ta",
     "flag_image": "img/flags/ta.svg",
     "iso": false,
+    "nation": false,
     "name": "Tristan da Cunha"
   },
   {
@@ -1907,6 +2134,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/tn.svg",
     "iso": true,
+    "nation": true,
     "name": "Tunisie"
   },
   {
@@ -1915,6 +2143,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/tr.svg",
     "iso": true,
+    "nation": true,
     "name": "Turquie"
   },
   {
@@ -1923,6 +2152,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/tm.svg",
     "iso": true,
+    "nation": true,
     "name": "Turkménistan"
   },
   {
@@ -1931,6 +2161,7 @@
     "continent": "North America",
     "flag_image": "img/flags/tc.svg",
     "iso": true,
+    "nation": false,
     "name": "Turks et Caicos (Îles)"
   },
   {
@@ -1939,6 +2170,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/tv.svg",
     "iso": true,
+    "nation": true,
     "name": "Tuvalu"
   },
   {
@@ -1947,6 +2179,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/ug.svg",
     "iso": true,
+    "nation": true,
     "name": "Ouganda"
   },
   {
@@ -1955,6 +2188,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/ua.svg",
     "iso": true,
+    "nation": true,
     "name": "Ukraine"
   },
   {
@@ -1963,6 +2197,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/ae.svg",
     "iso": true,
+    "nation": true,
     "name": "Emirats Arabes Unis"
   },
   {
@@ -1971,12 +2206,14 @@
     "continent": "Europe",
     "flag_image": "img/flags/gb.svg",
     "iso": true,
+    "nation": true,
     "name": "Royaume-Uni"
   },
   {
     "code": "un",
     "flag_image": "img/flags/un.svg",
     "iso": false,
+    "nation": false,
     "name": "Nations Unies"
   },
   {
@@ -1985,6 +2222,7 @@
     "continent": "North America",
     "flag_image": "img/flags/um.svg",
     "iso": true,
+    "nation": false,
     "name": "Îles mineures éloignées des États-Unis"
   },
   {
@@ -1993,6 +2231,7 @@
     "continent": "North America",
     "flag_image": "img/flags/us.svg",
     "iso": true,
+    "nation": true,
     "name": "États-Unis d'Amérique"
   },
   {
@@ -2001,6 +2240,7 @@
     "continent": "South America",
     "flag_image": "img/flags/uy.svg",
     "iso": true,
+    "nation": true,
     "name": "Uruguay"
   },
   {
@@ -2009,6 +2249,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/uz.svg",
     "iso": true,
+    "nation": true,
     "name": "Ouzbékistan"
   },
   {
@@ -2017,6 +2258,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/vu.svg",
     "iso": true,
+    "nation": true,
     "name": "Vanuatu"
   },
   {
@@ -2025,6 +2267,7 @@
     "continent": "South America",
     "flag_image": "img/flags/ve.svg",
     "iso": true,
+    "nation": true,
     "name": "Venezuela"
   },
   {
@@ -2033,7 +2276,8 @@
     "continent": "Asia",
     "flag_image": "img/flags/vn.svg",
     "iso": true,
-    "name": "Vénézuéla"
+    "nation": true,
+    "name": "Vietnam"
   },
   {
     "capital": "Road Town",
@@ -2041,6 +2285,7 @@
     "continent": "North America",
     "flag_image": "img/flags/vg.svg",
     "iso": true,
+    "nation": false,
     "name": "Îles Vierges (britanniques)"
   },
   {
@@ -2049,6 +2294,7 @@
     "continent": "North America",
     "flag_image": "img/flags/vi.svg",
     "iso": true,
+    "nation": false,
     "name": "Îles Vierges (américaines)"
   },
   {
@@ -2057,6 +2303,7 @@
     "continent": "Europe",
     "flag_image": "img/flags/gb-wls.svg",
     "iso": false,
+    "nation": true,
     "name": "Pays de Galles"
   },
   {
@@ -2065,6 +2312,7 @@
     "continent": "Oceania",
     "flag_image": "img/flags/wf.svg",
     "iso": true,
+    "nation": false,
     "name": "Wallis et Futuna"
   },
   {
@@ -2073,6 +2321,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/eh.svg",
     "iso": true,
+    "nation": true,
     "name": "Sahara occidental"
   },
   {
@@ -2081,6 +2330,7 @@
     "continent": "Asia",
     "flag_image": "img/flags/ye.svg",
     "iso": true,
+    "nation": true,
     "name": "Yémen"
   },
   {
@@ -2089,6 +2339,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/zm.svg",
     "iso": true,
+    "nation": true,
     "name": "Zambie"
   },
   {
@@ -2097,6 +2348,7 @@
     "continent": "Africa",
     "flag_image": "img/flags/zw.svg",
     "iso": true,
+    "nation": true,
     "name": "Zimbabwe"
   }
 ]

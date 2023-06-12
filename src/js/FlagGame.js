@@ -15,6 +15,9 @@ export default class FlagGame {
 
     newFlag() {
         this.flag = Countries[Math.floor(Math.random() * Countries.length)]
+        while (!this.flag.nation) {
+            this.flag = Countries[Math.floor(Math.random() * Countries.length)]
+        }
     }
 
     generate() {

@@ -6,14 +6,14 @@ import { createChat } from "./functions/dom-functions"
 const auth = new Auth(
     'token',
     'wd3ocgm4k96y9on16i7nbykt2ckvet',
-    // 'https://mibotmichel.alexandrechauvin.fr',
-    'http://localhost:5173',
+    'https://mibotmichel.alexandrechauvin.fr',
+    // 'http://localhost:5173',
     ['chat:read'],
     Math.floor(Math.random() * 333333333),
 )
 auth.storeAccessToken(window.location.hash)
 
-const channel = 'alpifra'
+const channel = 'lechelmi'
 const limitTimer = 20
 let currentAccess = sessionStorage.getItem('access_token')
 let clientId = sessionStorage.getItem('client_id')
